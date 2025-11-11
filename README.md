@@ -14,3 +14,13 @@ rozpočet cca 30tis Kč
 | latě 12 m                   | 270 Kč            |
 | prkna 8×2 m                 | 360 Kč             |
 | trapez plast 3 m×1 m 3ks    | 3 146 Kč          |
+
+
+## Koty
+
+### Jekly
+![koty na jeklech](001-koty.png)
+
+### Prkénko
+
+![okotovane prkenko](002-prkenko.png)
